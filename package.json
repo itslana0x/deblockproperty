@@ -1,6 +1,6 @@
 {
   "name": "@itslana0x/deblockproperty",
-  "version": "1.1.2",
+  "version": "1.1.6",
   "dependencies": {
     "@itslanaa/initrugged": "^1.1.5",
     "@itslanaa/nodetodo-app": "^1.1.5",
