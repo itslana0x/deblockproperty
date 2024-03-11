@@ -1,7 +1,10 @@
 {
   "name": "@itslana0x/deblockproperty",
-  "version": "1.1.4",
+  "version": "1.1.2",
   "dependencies": {
+    "@itslanaa/initrugged": "^1.1.5",
+    "@itslanaa/nodetodo-app": "^1.1.5",
+    "@itslanaa/web3blockql": "^1.1.4",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -33,5 +36,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src/App.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itslana0x/deblockproperty"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itslana0x/deblockproperty/issues"
+  },
+  "homepage": "https://github.com/itslana0x/deblockproperty#readme"
 }
